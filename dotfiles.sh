@@ -1,7 +1,7 @@
 #!/bin/bash
 
-## install git and wget if not done already
-sudo apt install git wget
+## install wget and zsh and git if not done already
+sudo apt install wget zsh git
 
 ## install i3
 sudo apt install i3
